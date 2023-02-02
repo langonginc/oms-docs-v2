@@ -1,0 +1,22 @@
+- Getting Started
+  - [System Requirement](/getting-started/system)
+  - [Installation Guide](/getting-started/install)
+  - [Getting Ready To Use](/getting-started/ready)
+- Using OhMySh
+  - [Themes](/using/theme)
+  - [Plugins](/using/plugin)
+  - [Aliases](/using/alias)
+  - [Covers](/using/cover)
+  - [Directory Recording](/using/bcd)
+  - [Command Line Interface](/using/cli)
+  - [Trash Manager](/using/trash)
+  - [Bash Completion](/using/comp)
+- Advanced Usage
+  - [Cache Directory](/using/cache)
+  - [Advanced Configuation](/using/advconfig)
+  - [Development Channel](/using/dev)
+- [FAQ](/other/faq.md)
+- [Change Log](/other/changelog)
+- [Uninstalling](/other/uninstall)
+- [License](/other/license)
+- [Contributors](/other/cont)

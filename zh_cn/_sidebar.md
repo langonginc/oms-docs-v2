@@ -1,0 +1,22 @@
+- 安装
+  - [系统要求](/zh_cn/getting-started/system)
+  - [安装说明](/zh_cn/getting-started/install)
+  - [准备使用](/zh_cn/getting-started/ready)
+- 使用 OhMySh
+  - [主题](/zh_cn/using/theme)
+  - [插件](/zh_cn/using/plugin)
+  - [快捷方式](/zh_cn/using/alias)
+  - [封面](/zh_cn/using/cover)
+  - [目录记录](/zh_cn/using/bcd)
+  - [命令行工具](/zh_cn/using/cli)
+  - [垃圾管理](/zh_cn/using/trash)
+  - [自动补全](/zh_cn/using/comp)
+- 高级用法
+  - [缓存目录](/zh_cn/using/cache)
+  - [高级配置](/zh_cn/using/advconfig)
+  - [开发频道](/zh_cn/using/dev)
+- [常见问题 FAQ](/zh_cn/other/faq)
+- [更新日志](/zh_cn/other/changelog)
+- [卸载说明](/zh_cn/other/uninstall)
+- [版权说明](/zh_cn/other/license)
+- [参与开发](/zh_cn/other/cont)
